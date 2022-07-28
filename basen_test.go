@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	gc "launchpad.net/gocheck"
+	gc "gopkg.in/check.v1"
 
 	"github.com/cmars/basen"
 )
